@@ -120,16 +120,6 @@ CyberGuard254/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Team
-
-- John Doe - Cybersecurity Expert
-- Jane Smith - Content Strategist
-- David Kimani - Security Analyst
-
 ## 📞 Contact
 
 - Email: your.email@gmail.com
